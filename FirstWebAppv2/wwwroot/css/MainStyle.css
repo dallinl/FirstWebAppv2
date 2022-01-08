@@ -1,0 +1,19 @@
+﻿body {
+    font-family: 'Segoe UI Historic'
+}
+
+label {
+    font-size: 18px;
+    color: darkcyan;
+    font-weight: 900;
+    width: 100px;
+    display: inline-block;
+}
+
+textarea {
+    font-size: 12px;
+}
+
+li {
+    list-style-type: none;
+}
